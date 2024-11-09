@@ -87,4 +87,4 @@ Plannerly/
 5. Open a pull request.
 
 ## License
-This file will give users a quick project overview, including setup instructions, folder structure, and features. Feel free to adjust any specific details as needed!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
